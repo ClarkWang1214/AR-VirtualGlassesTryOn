@@ -1,0 +1,3 @@
+Error	ResourceSystem	:[material package <../Resources/image/farm.cubemap> not found]
+Error	ResourceSystem	:[material package <../Resources/image/test.2dpak> not found]
+Info	ResourceSystem	:[model package <../Resources/model/teapot.modpak> not found]

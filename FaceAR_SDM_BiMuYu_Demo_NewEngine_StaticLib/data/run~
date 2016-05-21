@@ -1,0 +1,7 @@
+./rcr-detect -f ../data/haarcascade_frontalface_alt2.xml -m ../data/face_landmarks_model_rcr_22.bin -i ../data/ibug_lfpw_trainset/image_0001.png
+
+
+./rcr-train -d ../data/lfpw/trainset -m ../data/mean_ibug_lfpw_68.txt -f ../data/haarcascade_frontalface_alt2.xml -c ../data/rcr_training_22.cfg -e ../data/rcr_eval.cfg -t ../data/lfpw/testset
+
+
+
